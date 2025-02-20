@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #333;
+}
+h1{
+    color: azure;
+    font-family: broadway;
+}
+header {
+    background-color: #ff0000;
+    color: azure;
+    padding: 15px;
+}
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: azure;
+    font-weight: bold;
+}
+p{
+    color: azure;
+}
+button {
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 20px;
+}
